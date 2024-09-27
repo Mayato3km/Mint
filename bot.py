@@ -22,7 +22,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-discord_token = "MTI4Mjc2OTg2MTEwOTYxMjY3NQ.GfNH3F.cGRnx8mR4_RGS55BmYjwEFctBve33e_tPjFD8Y"
+discord_token = "MTI4Mjc2OTg2MTEwOTYxMjY3NQ.GGP9T7.dYJdUmkN6-i5OqkDVkf7X5b8MZqAw8U4mvlipY"
 
 TWITCH_CLIENT_ID = "enspq6jfwy8e2dezkb5gc52plepju6"
 TWITCH_CLIENT_SECRET = "r4eookccno8wra0d02bpz89i3k8iob"
